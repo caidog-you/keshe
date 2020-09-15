@@ -145,7 +145,7 @@
     </div>
     <div class="action">
       <input type="submit" value="登录" class="btn">
-      <input type="button" class="btn" value="注册" >
+
     </div>
   </div>
 </form>
